@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ContosoUniversity")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("DNS")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ContosoUniversity")]
-[assembly: AssemblyCopyright("© DNS, 2015")]
+[assembly: AssemblyCopyright("© , 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для ID библиотеки типов typelib, если этот проект видим для COM
-[assembly: Guid("41b1a7e3-3930-4722-b7b4-f1e6f99d8434")]
+[assembly: Guid("16d00724-cb08-4fc6-bef1-4888409902bd")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
